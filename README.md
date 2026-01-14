@@ -20,4 +20,9 @@ This project analyzes London bike rental data using Python and Tableau.
 - Cleaned dataset: `london_bikes_final.xlsx`
 - Dashboard screenshot: `dashboard.png`
 
+Tableau Dashboard
+🔗 Interactive Dashboard: https://public.tableau.com/app/profile/omkar.mamidwar2383/viz/LondonBikeRentalsSimpleInsightsDashboard/Dashboard1?publish=yes
+
+
+
 This project demonstrates an end-to-end data analytics workflow from raw data to business insights.
